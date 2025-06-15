@@ -1,0 +1,6 @@
+"uploads/ambient-catcher-460003-g0-9164bdf4e984.json" 
+"serviceAccount.json" 
+
+uploads/*.json
+*.key
+*.env
